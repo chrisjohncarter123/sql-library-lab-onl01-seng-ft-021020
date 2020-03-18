@@ -1,4 +1,4 @@
-Subgenre - Series - Author
+
 
 CREATE TABLE Series(
   id INTEGER PRIMARY KEY,
